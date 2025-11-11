@@ -14,7 +14,7 @@ export function setupSwagger(app: Express) {
       },
       servers: [
         {
-          url: "http://localhost:3000",
+          url: "https://pdf-api-u4zd.onrender.com",
           description: "Local server",
         },
       ],
